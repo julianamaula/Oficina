@@ -69,7 +69,7 @@ Contribuições são bem-vindas! Siga os passos abaixo:
 ---
 
 📄 Licença
-Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
+Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](https://github.com/julianamaula/Oficina#MIT-1-ov-file) para mais detalhes.
 
 ---
 
