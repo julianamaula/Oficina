@@ -16,10 +16,8 @@ Bem-vindo ao repositório do **Sistema de Gerenciamento de Oficina Mecânica**! 
 
 ## 🛠️ **Tecnologias Utilizadas**
 
-- **Backend**: Linguagem de programação (ex: Python, Java, etc.)
-- **Frontend**: Framework web (ex: React, Angular, etc.)
 - **Banco de Dados**: MySQL, PostgreSQL ou outro SGBD relacional.
-- **Ferramentas de Desenvolvimento**: Git, Docker, etc.
+- **Ferramentas de Desenvolvimento**: Git
 
 ---
 
