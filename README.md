@@ -16,8 +16,10 @@ Bem-vindo ao repositório do **Sistema de Gerenciamento de Oficina Mecânica**! 
 
 ## 🛠️ **Tecnologias Utilizadas**
 
-- **Banco de Dados**: MySQL, PostgreSQL ou outro SGBD relacional.
-- **Ferramentas de Desenvolvimento**: Git
+- **MySQL**: Banco de dados relacional utilizado para armazenar os dados.
+- **MySQL Workbench**: Ferramenta para modelagem e gerenciamento do banco de dados.
+- **Git**: Controle de versão do projeto.
+- **GitHub**: Hospedagem do repositório.
 
 ---
 
@@ -45,33 +47,43 @@ Bem-vindo ao repositório do **Sistema de Gerenciamento de Oficina Mecânica**! 
 
 - Crie ordens de serviço e acompanhe seu progresso.
 
-📊 Estrutura do Banco de Dados
+---
+
+## 📊 **Estrutura do Banco de Dados**
+
+
 O banco de dados foi modelado com base no diagrama EER refinado, contendo entidades como ```Cliente```, ```Veículo```, ```OrdemServiço```, ```Equipe```, ```Mecânico```, ```Serviço``` e ```Peça```. 
 Para mais detalhes, consulte o arquivo de documentação do banco de dados.
 
 ---
 
-🤝 Contribuição
+## 🤝 **Contribuição**
+
+
 Contribuições são bem-vindas! Siga os passos abaixo:
 
-1. Faça um fork do projeto.
+1. **Faça um fork do projeto**.
 
-2. Crie uma branch para sua feature (```git checkout -b feature/nova-feature```).
+2. **Crie uma branch para sua feature** (```git checkout -b feature/nova-feature```).
 
-3. Commit suas alterações (```git commit -m 'Adicionando nova feature'```).
+3. **Commit suas alterações** (```git commit -m 'Adicionando nova feature'```).
 
-4. Push para a branch (```git push origin feature/nova-feature```).
+4. **Push para a branch** (```git push origin feature/nova-feature```).
 
-5. Abra um Pull Request.
+5. **Abra um Pull Request**.
 
 ---
 
-📄 Licença
+## 📄 **Licença**
+
+
 Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](https://github.com/julianamaula/Oficina#MIT-1-ov-file) para mais detalhes.
 
 ---
 
-✉️ Contato
+## ✉️ **Contato**
+
+
 Em caso de dúvidas ou sugestões, entre em contato:
 
 [LinkedIn](https://www.linkedin.com/in/juliana-de-maula)
